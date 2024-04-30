@@ -9,7 +9,7 @@ dependencies = [
   "Pillow",
   "pyperclip",
 ]
-requires-python = ">=3.9"
+requires-python = ">=3.7"
 authors = [
   { name="kujirahand", email="web@kujirahand.com" },
 ]
