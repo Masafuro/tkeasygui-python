@@ -1,4 +1,4 @@
-# TkEasyGUI
+# TkEasyGUI python 3.8以下版
 
 `TkEasyGUI` is a Python library that allows for the easy and simple creation of GUI applications.
 - [pypi.org > TkEasyGUI](https://pypi.org/project/tkeasygui/)
